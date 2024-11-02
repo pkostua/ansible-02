@@ -57,3 +57,19 @@ ansible-playbook site.yml -i inventory/prod.yml
 
 * [Clickhouse documentation](https://clickhouse.com/docs/en/getting-started/install/)
 * [Vector documentation](https://vector.dev/docs/)
+
+
+## Скриншоты
+### 5. ansible-lint ошибок нет
+![image](https://github.com/user-attachments/assets/98b34900-7c60-475f-98c0-de73ffef3237)
+### 6. --check ошибка выполнения изза запрета внесения изменений
+![image](https://github.com/user-attachments/assets/3578868d-9776-4e09-ac34-161604f511d0)
+### 7. --diff  Длинный лог получился. На скриншоте самй конец и summary по все задаче
+![image](https://github.com/user-attachments/assets/cc06736b-e350-44b0-9664-027f56676687)
+### 8. --diff Изменений нет
+![image](https://github.com/user-attachments/assets/a432c36d-7621-4a06-be41-3164193aa648)
+
+
+
+
+
